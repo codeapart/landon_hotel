@@ -182,7 +182,7 @@
     </header>
 
     <main role="main">
-        <div class="container mt-5">
+        <div class="container" style="margin-top: 5rem!important;">
             <div class="row">
                 <!-- Buttons -->
                 @yield('buttons')
